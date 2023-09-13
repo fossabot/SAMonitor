@@ -1,4 +1,6 @@
 # SAMonitor
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarkski1%2FSAMonitor.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarkski1%2FSAMonitor?ref=badge_shield)
+
 
 This is the monorepo for SAMonitor, a free and open source server monitor, tracking over a thousand SA-MP and open.mp servers.
 
@@ -162,3 +164,6 @@ The API ***should*** never return any null values. Either '0' or "Unknown" would
 ## Add your server
 
 You may add your server through the option at the SAMonitor website.
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarkski1%2FSAMonitor.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarkski1%2FSAMonitor?ref=badge_large)
